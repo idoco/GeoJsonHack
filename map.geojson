@@ -352,6 +352,22 @@
                 "marker-symbol": "rocket",
                 "marker-size": "large"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "40",
+                    "40"
+                ]
+            },
+            "properties": {
+                "title": "test 1234",
+                "description": "test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test ",
+                "marker-symbol": "rocket",
+                "marker-size": "large"
+            }
         }
     ]
 }
