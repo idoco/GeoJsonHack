@@ -368,6 +368,22 @@
                 "marker-symbol": "rocket",
                 "marker-size": "large"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "35",
+                    "35"
+                ]
+            },
+            "properties": {
+                "title": "Test",
+                "description": "testt esttes ttest test testtes ttestte ttesttesttes ttestt esttes ttesttes ttestt esttestt esttes ttest test testtes ttestte ttesttesttes ttestt esttes ttesttes ttestt esttestt esttes ttest test testtes ttestte ttesttesttes ttestt esttes ttesttes ttestt esttestt esttes ttest test testtes ttestte ttesttesttes ttestt esttes ttesttes ttestt esttestt esttes ttest test testtes ttestte ttesttesttes ttestt esttes ttesttes ttestt esttestt esttes ttest test testtes ttestte ttesttesttes ttestt esttes ttesttes ttestt esttestt esttes ttest test testtes ttestte ttesttesttes ttestt esttes ttesttes ttestt est",
+                "marker-symbol": "rocket",
+                "marker-size": "large"
+            }
         }
     ]
 }
