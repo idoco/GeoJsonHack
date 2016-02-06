@@ -144,6 +144,22 @@
                 "marker-symbol": "rocket",
                 "marker-size": "large"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "34.769",
+                    "32.080"
+                ]
+            },
+            "properties": {
+                "title": "Test with mdl",
+                "description": "TEst TEst TEst TEst TEst TEst TEst TEst TEst TEst TEst TEst TEst TEst TEst TEst TEst TEst TEst TEst TEst TEst TEst TEst TEst TEst TEst TEst ",
+                "marker-symbol": "rocket",
+                "marker-size": "large"
+            }
         }
     ]
 }
