@@ -230,6 +230,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "34.782",
+                    "32.085"
+                ]
+            },
+            "properties": {
+                "title": "rwe rewr",
+                "description": "fsd sdf sdf sfsd ",
+                "marker-symbol": "rocket",
+                "marker-size": "large"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "22",
                     "22"
                 ]
