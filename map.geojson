@@ -278,13 +278,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.808",
-                    "-3.158"
+                    "5",
+                    "5"
                 ]
             },
             "properties": {
-                "title": "Firefox test 2",
-                "description": "test Firefox test 2 test Firefox test 2 test Firefox test 2 test Firefox test 2 test Firefox test 2 test Firefox test 2 test Firefox test 2 test Firefox test 2 test Firefox test 2 ",
+                "title": "Firefox test 3",
+                "description": "test Firefox test 2 test Firefox test 2 test test Firefox test 2 test Firefox test 2 test Firefox test 2 test Firefox test 2 test Firefox test 2 test Firefox test 2 test Firefox test 2 test Firefox test 2 test Firefox test 2  test Firefox test 2 test Firefox test 2 test Firefox test 2 test Firefox test 2 test Firefox test 2 test Firefox test 2 ",
                 "marker-symbol": "rocket",
                 "marker-size": "large"
             }
