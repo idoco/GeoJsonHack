@@ -235,8 +235,24 @@
                 ]
             },
             "properties": {
-                "title": "rwe rewr",
-                "description": "fsd sdf sdf sfsd ",
+                "title": "tesdt",
+                "description": "das dasd ad ",
+                "marker-symbol": "rocket",
+                "marker-size": "large"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "34.782",
+                    "32.085"
+                ]
+            },
+            "properties": {
+                "title": "er erer ",
+                "description": "fsd fsd fdf",
                 "marker-symbol": "rocket",
                 "marker-size": "large"
             }
