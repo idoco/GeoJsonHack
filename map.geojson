@@ -278,13 +278,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "5",
-                    "5"
+                    "34.771",
+                    "32.084"
                 ]
             },
             "properties": {
-                "title": "Firefox test 3",
-                "description": "test Firefox test 2 test Firefox test 2 test test Firefox test 2 test Firefox test 2 test Firefox test 2 test Firefox test 2 test Firefox test 2 test Firefox test 2 test Firefox test 2 test Firefox test 2 test Firefox test 2  test Firefox test 2 test Firefox test 2 test Firefox test 2 test Firefox test 2 test Firefox test 2 test Firefox test 2 ",
+                "title": "Shachar test",
+                "description": "Bla bla",
                 "marker-symbol": "rocket",
                 "marker-size": "large"
             }
