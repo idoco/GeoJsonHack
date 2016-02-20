@@ -70,16 +70,34 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "34.782",
+                    "32.085"
+                ]
+            },
+            "properties": {
+                "title": "2 Simultaneous post by shacharke",
+                "description": "Simultaneous post by shacharke description",
+                "marker-symbol": "clothing-store",
+                "marker-size": "large"
+            }
+        },
+        {
+            "start-ioc16": "ioc16",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "-30",
                     "-30"
                 ]
             },
             "properties": {
-                "title": "Simultaneous post by rpm-user",
-                "description": "Simultaneous post by rpm-user description",
+                "title": "test test",
+                "description": "test adas dasd asdas das das d",
                 "marker-symbol": "rocket",
                 "marker-size": "large"
-            }
+            },
+            "end-ioc16": "ioc16"
         },
         {
             "type": "Feature",
