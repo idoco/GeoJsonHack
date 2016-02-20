@@ -82,6 +82,24 @@
             }
         },
         {
+            "start-h66cn": "h66cn",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-30",
+                    "-30"
+                ]
+            },
+            "properties": {
+                "title": "test test",
+                "description": "rer afd assda sdasd ad ada sdasd",
+                "marker-symbol": "rocket",
+                "marker-size": "large"
+            },
+            "end-h66cn": "h66cn"
+        },
+        {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
