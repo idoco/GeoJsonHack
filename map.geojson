@@ -70,6 +70,22 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "-30",
+                    "-30"
+                ]
+            },
+            "properties": {
+                "title": "Simultaneous post by rpm-user",
+                "description": "Simultaneous post by rpm-user description",
+                "marker-symbol": "rocket",
+                "marker-size": "large"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     27.578,
                     6.714
                 ]
