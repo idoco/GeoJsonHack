@@ -140,6 +140,24 @@
             "end-oukpk": "oukpk"
         },
 
+        {   "start-5v9wh": "5v9wh",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-20",
+                    "20"
+                ]
+            },
+            "properties": {
+                "title": "test rpm-user 1",
+                "description": "dsad asdkasdk dajsd ",
+                "marker-symbol": "rocket",
+                "marker-size": "large"
+            },
+            "end-5v9wh": "5v9wh"
+        },
+
         {
             "type": "Feature",
             "geometry": {
