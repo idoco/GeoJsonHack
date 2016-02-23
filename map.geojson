@@ -62,7 +62,6 @@
         {},
         {},
         {},
-        {},
         {
             "type": "Feature",
             "geometry": {
@@ -74,11 +73,12 @@
             },
             "properties": {
                 "title": "<h4>Iran Tech Job</h4>",
-                "description": "<b>Iran</b> Tech Job description\n",
+                "description": "<p>Iran Tech Job<p> description",
                 "marker-symbol": "clothing-store",
                 "marker-size": "large"
             }
         },
+        {},
         {},
         {},
         {},
