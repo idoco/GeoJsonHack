@@ -63,6 +63,22 @@
         {},
         {},
         {},
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "51.831",
+                    "35.568"
+                ]
+            },
+            "properties": {
+                "title": "<h4>Iran Tech Job</h4>",
+                "description": "<b>Iran</b> Tech Job description\n",
+                "marker-symbol": "clothing-store",
+                "marker-size": "large"
+            }
+        },
         {},
         {},
         {},
