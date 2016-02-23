@@ -9,120 +9,117 @@
         {},
         {},
         {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
         {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    26.541,
-                    61.763
+                    -74.0065,
+                    40.714
                 ]
             },
             "properties": {
-                "title": "This is the title ad25j",
-                "description": "And this is a long description ad25j",
-                "marker-symbol": "industrial",
+                "title": "<h3>NYC test job</h3>",
+                "description": "<b>SpaceX Falcon 9</b> rocket landing fails after booster leg breaks <br> <a href=https://www.youtube.com/watch?v=jshk8ZVIgdI>Link</a>",
+                "marker-symbol": "rocket",
                 "marker-size": "large"
             }
         },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
         {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -54.621,
-                    52.556
+                    "13.411",
+                    "52.521"
                 ]
             },
             "properties": {
-                "title": "This is the title 143g3",
-                "description": "And this is a long description 143g3",
+                "title": "JHipster Developer",
+                "description": "JHipster is a Yeoman generator, used to create a Spring Boot + AngularJS project.\n\n<a href=http://jhipster.github.io/>Greetings, Java Hipster!</a>",
                 "marker-symbol": "clothing-store",
                 "marker-size": "large"
             }
         },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
         {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -6.353,
-                    48.284
+                    "51.831",
+                    "35.568"
                 ]
             },
             "properties": {
-                "title": "This is the title l94s4",
-                "description": "And this is a long description l94s4",
-                "marker-symbol": "industrial",
+                "title": "<h4>Iran Tech Job</h4>",
+                "description": "<b>Iran</b> Tech Job description\n",
+                "marker-symbol": "clothing-store",
                 "marker-size": "large"
             }
         },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
         {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    86.376,
-                    59.209
+                    "-122.423",
+                    "37.772"
                 ]
             },
             "properties": {
-                "title": "This is the title h0ri1",
-                "description": "And this is a long description h0ri1",
+                "title": "PM-in-Residence",
+                "description": "<h3> <a href=https://angel.co/gitmap/jobs>GitMap</a></h3>\n <a href=https://angel.co/gitmap/jobs/115720-pm-in-residence>PM-in-Residence</a>\n<br> $75k - $150k - No equity\n<p> Product-in-Residence at GitMap \nBe a part of one of the most exciting teams, in one of the most exciting tech spaces, in one of the world’s most exciting cities for startups.\n</p>",
                 "marker-symbol": "rocket",
                 "marker-size": "large"
             }
@@ -155,13 +152,20 @@
         {},
         {},
         {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
         {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.126",
-                    "51.509"
+                    -0.126,
+                    51.509
                 ]
             },
             "properties": {
@@ -200,6 +204,22 @@
         {},
         {},
         {},
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "34.810",
+                    "32.084"
+                ]
+            },
+            "properties": {
+                "title": "XKCD Stack developer",
+                "description": "Requirements:\n<li>QBasic on Rails</li>\n<li>Hypercard.js</li>\n<li>Microsoft Bob Server®</li>\n<a href=https://xkcd.com/1636/>XKCD Stack</a>",
+                "marker-symbol": "rocket",
+                "marker-size": "large"
+            }
+        },
         {},
         {},
         {},
