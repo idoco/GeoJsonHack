@@ -223,6 +223,22 @@
         {},
         {},
         {},
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "72.883",
+                    "19.073"
+                ]
+            },
+            "properties": {
+                "title": "Test Test Test",
+                "description": "Test Test Test Test Test Test Test Test Test Test Test Test ",
+                "marker-symbol": "rocket",
+                "marker-size": "large"
+            }
+        },
         {},
         {}
     ]
