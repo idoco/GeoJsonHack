@@ -19,8 +19,8 @@
                 ]
             },
             "properties": {
-                "title": "<h3>NYC test job</h3>",
-                "description": "<b>SpaceX Falcon 9</b> rocket landing fails after booster leg breaks <br> <a href=https://www.youtube.com/watch?v=jshk8ZVIgdI>Link</a>",
+                "title": "<h3> <a href=https://www.youtube.com/watch?v=jshk8ZVIgdI>SpaceX Falcon 9 - Landing Gear Inspector</a> </h3>",
+                "description": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars.<br> <a href=https://www.youtube.com/watch?v=jshk8ZVIgdI>Link</a>",
                 "marker-symbol": "rocket",
                 "marker-size": "large"
             }
@@ -62,22 +62,6 @@
         {},
         {},
         {},
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "51.831",
-                    "35.568"
-                ]
-            },
-            "properties": {
-                "title": "<h4>Iran Tech Job</h4>",
-                "description": "<p>Iran Tech Job<p> description",
-                "marker-symbol": "clothing-store",
-                "marker-size": "large"
-            }
-        },
         {},
         {},
         {},
@@ -118,8 +102,8 @@
                 ]
             },
             "properties": {
-                "title": "PM-in-Residence",
-                "description": "<h3> <a href=https://angel.co/gitmap/jobs>GitMap</a></h3>\n <a href=https://angel.co/gitmap/jobs/115720-pm-in-residence>PM-in-Residence</a>\n<br> $75k - $150k - No equity\n<p> Product-in-Residence at GitMap \nBe a part of one of the most exciting teams, in one of the most exciting tech spaces, in one of the world’s most exciting cities for startups.\n</p>",
+                "title": "<h3> <a href=https://angel.co/gitmap/jobs>GitMap - PM-in-Residence</a></h3> ",
+                "description": "<a href=https://angel.co/gitmap/jobs/115720-pm-in-residence>PM-in-Residence</a>\n<br> $75k - $150k - No equity <br> Product-in-Residence at GitMap \nBe a part of one of the most exciting teams, in one of the most exciting tech spaces, in one of the world’s most exciting cities for startups.",
                 "marker-symbol": "rocket",
                 "marker-size": "large"
             }
@@ -169,17 +153,12 @@
                 ]
             },
             "properties": {
-                "title": "A test job in London",
-                "description": "A test job in London\nA test job in London",
+                "title": "<h3> <a href=https://angel.co/gitmap/jobs/123-senior-full-stack-python-developer>Senior Full-Stack Python Developer At MapChat</a> </h3>",
+                "description": "<br>£50k - £75k - 0.0-0.5% <br> We’re looking for a highly skilled Python / Django developer who can help make our entrepreneurs idea become a reality. You will build MVPs, offer expert technical advice and make suggestions for innovations through working in an agile fashion as a founding member of the companies we invest in.",
                 "marker-symbol": "rocket",
                 "marker-size": "large"
             }
         },
-        {},
-        {},
-        {},
-        {},
-        {},
         {},
         {},
         {},
@@ -209,6 +188,27 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "139.772",
+                    "35.671"
+                ]
+            },
+            "properties": {
+                "title": "Devices — Facebook Design Resources",
+                "description": "Facebook resource.\n\nand simil",
+                "marker-symbol": "rocket",
+                "marker-size": "large"
+            }
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "34.810",
                     "32.084"
                 ]
@@ -223,6 +223,22 @@
         {},
         {},
         {},
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "72.883",
+                    "19.073"
+                ]
+            },
+            "properties": {
+                "title": "Test Test Test",
+                "description": "Test Test Test Test Test Test Test Test Test Test Test Test ",
+                "marker-symbol": "rocket",
+                "marker-size": "large"
+            }
+        },
         {},
         {}
     ]
