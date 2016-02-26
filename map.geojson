@@ -65,6 +65,22 @@
         {},
         {},
         {},
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "34.810",
+                    "32.084"
+                ]
+            },
+            "properties": {
+                "title": "Test Test",
+                "description": "Test TestTest TestTest TestTest Test Test TestTest TestTest TestTest Test",
+                "marker-symbol": "rocket",
+                "marker-size": "large"
+            }
+        },
         {},
         {},
         {},
