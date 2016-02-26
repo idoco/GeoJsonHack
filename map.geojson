@@ -27,6 +27,22 @@
         },
         {},
         {},
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "0",
+                    "0"
+                ]
+            },
+            "properties": {
+                "title": "Test Test ",
+                "description": "Test Test Test Test Test Test Test Test Test Test Test Test Test Test ",
+                "marker-symbol": "rocket",
+                "marker-size": "large"
+            }
+        },
         {},
         {},
         {},
@@ -123,22 +139,6 @@
         {},
         {},
         {},
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "0",
-                    "0"
-                ]
-            },
-            "properties": {
-                "title": "Test Test",
-                "description": "Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test ",
-                "marker-symbol": "rocket",
-                "marker-size": "large"
-            }
-        },
         {},
         {},
         {},
