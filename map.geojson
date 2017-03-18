@@ -82,6 +82,23 @@
                 "contact": "<a href=https://github.com/korrio/>korrio</a>"
             }
         },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "29.165",
+                    "40.952"
+                ]
+            },
+            "properties": {
+                "title": "MapChat",
+                "description": "I want to make a mapchat app like http://idoco.github.io/map-chat. If u interested please connect to me.",
+                "marker-symbol": "clothing-store",
+                "marker-size": "large",
+                "contact": "<a href=https://github.com/tugsan/>tugsan</a>"
+            }
+        },
         {},
         {},
         {},
