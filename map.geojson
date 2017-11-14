@@ -82,23 +82,6 @@
                 "contact": "<a href=https://github.com/korrio/>korrio</a>"
             }
         },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "29.165",
-                    "40.952"
-                ]
-            },
-            "properties": {
-                "title": "MapChat",
-                "description": "I want to make a mapchat app like http://idoco.github.io/map-chat. If u interested please connect to me.",
-                "marker-symbol": "clothing-store",
-                "marker-size": "large",
-                "contact": "<a href=https://github.com/tugsan/>tugsan</a>"
-            }
-        },
         {},
         {},
         {},
@@ -135,6 +118,23 @@
         {},
         {},
         {},
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-19.138",
+                    "64.108"
+                ]
+            },
+            "properties": {
+                "title": "Master Builder",
+                "description": "Build stuff                                               ",
+                "marker-symbol": "rocket",
+                "marker-size": "large",
+                "contact": "<a href=https://github.com/Gurzalot/>Gurzalot</a>"
+            }
+        },
         {
             "type": "Feature",
             "geometry": {
@@ -256,6 +256,23 @@
         {},
         {},
         {},
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "29.166",
+                    "40.952"
+                ]
+            },
+            "properties": {
+                "title": "node.js, bitbucket teacher via skype",
+                "description": "node.js, bitbucket, heroku teacher via skype",
+                "marker-symbol": "rocket",
+                "marker-size": "large",
+                "contact": "<a href=https://github.com/tugsan/>tugsan</a>"
+            }
+        },
         {},
         {},
         {},
@@ -318,6 +335,23 @@
         },
         {},
         {},
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "170.030",
+                    "-33.920"
+                ]
+            },
+            "properties": {
+                "title": "testtesttest",
+                "description": "testtesttestsetsetsetset",
+                "marker-symbol": "clothing-store",
+                "marker-size": "large",
+                "contact": "<a href=https://github.com/alisrbdni/>alisrbdni</a>"
+            }
+        },
         {},
         {},
         {},
