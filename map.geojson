@@ -364,23 +364,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "29.397",
-                    "40.866"
-                ]
-            },
-            "properties": {
-                "title": "Geolocation Coder",
-                "description": "If you are interested coding about geolocation webapps or apps. Please let me know. tugsankoyuncu@gmail.com ",
-                "marker-symbol": "rocket",
-                "marker-size": "large",
-                "contact": "<a href=https://github.com/tugsan/>tugsan</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     "14.421",
                     "50.088"
                 ]
@@ -391,6 +374,23 @@
                 "marker-symbol": "clothing-store",
                 "marker-size": "large",
                 "contact": "<a href=https://github.com/allienworks/>allienworks</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "29.397",
+                    "40.866"
+                ]
+            },
+            "properties": {
+                "title": "GeoApplication Coder",
+                "description": "Please let me know if you are interested to code Geo Application",
+                "marker-symbol": "rocket",
+                "marker-size": "large",
+                "contact": "<a href=https://github.com/tugsan/>tugsan</a>"
             }
         },
         {
