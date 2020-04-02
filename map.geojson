@@ -398,6 +398,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "29.397",
+                    "40.866"
+                ]
+            },
+            "properties": {
+                "title": "GeoApplication Coder",
+                "description": "Please let me know if you are interested to code Geo Application",
+                "marker-symbol": "rocket",
+                "marker-size": "large",
+                "contact": "<a href=https://github.com/tugsan/>tugsan</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "8.629",
                     "50.083"
                 ]
