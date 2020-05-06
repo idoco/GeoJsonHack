@@ -217,6 +217,23 @@
         {},
         {},
         {},
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "76.464",
+                    "20.945"
+                ]
+            },
+            "properties": {
+                "title": "I'm a CEO, bitch!",
+                "description": "Meme generator for           <iframe width=\"420\" height=\"315\" src=\"https://www.youtube.com/embed/1wnE4vF9CQ4?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>\n",
+                "marker-symbol": "rocket",
+                "marker-size": "large",
+                "contact": "<a href=https://github.com/yigaldviri/>yigaldviri</a>"
+            }
+        },
         {},
         {},
         {},
